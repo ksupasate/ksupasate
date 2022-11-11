@@ -2,8 +2,6 @@
 
 Welcome to my profile!
 <p>
-I'm Supasate, computer engineer student at KMUTT
-<p>
-A boy who passionate about Quantum Computing :atom:
+I'm Supasate, computer engineer student at KMUTT. A boy who passionate about Quantum Computing :atom:
 
-<
+
