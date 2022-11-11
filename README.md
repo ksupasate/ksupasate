@@ -16,6 +16,10 @@ I'm Supasate, computer engineer student at KMUTT. A boy who passionate about Qua
 <p>
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/> 
 	
+## :rocket: Github stat
+https://github-readme-stats.vercel.app/api?username={ksupasate}
+
+	
 	
 	
   
