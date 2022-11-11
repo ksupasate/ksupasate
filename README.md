@@ -1,4 +1,4 @@
-## Hi, there !
+## Hi there! 👋
 
 - 👋 Hi, I’m @ksupasate
 - 👀 I’m interested in ...
