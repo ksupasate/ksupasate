@@ -3,3 +3,5 @@
 Welcome to my profile!
 <p>
 I'm Supasate, computer engineer student at KMUTT
+<p>
+A boy who passionate about Quantum Computing <img src="https://www.atomicrealities.com/post/quantum-computers-elucidated" alt="drawing" width="20" height="20"/>
