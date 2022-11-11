@@ -3,5 +3,8 @@
 Welcome to my profile!
 <p>
 I'm Supasate, computer engineer student at KMUTT. A boy who passionate about Quantum Computing :atom:
+  
+## Languages
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/>
 
 
