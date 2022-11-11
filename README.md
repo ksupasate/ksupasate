@@ -4,8 +4,7 @@ Welcome to my profile!
 <p>
 I'm Supasate, computer engineer student at KMUTT. A boy who passionate about Quantum Computing :atom: 
 <p>
-<a href="https://medium.com/@ksupasate"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a> <a href="https://www.linkedin.com/in/ksupasate"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-" alt="linkedin"/></a> 
+<a href="https://medium.com/@ksupasate"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a> <a href="https://www.linkedin.com/in/ksupasate"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> 
 	
   
 ## :computer: Technologies
