@@ -1,4 +1,4 @@
-## <img src="[https://raw.githubusercontent.com/kvssankar/kvssankar/main/octo.gif](https://dribbble.com/shots/1899338-Yogocat-Animation/attachments/9034792?mode=media](https://dribbble.com/shots/1899338-Yogocat-Animation/attachments/9034792?mode=media)" alt="drawing" width="100"/> Hi there! 
+## <img src="https://user-images.githubusercontent.com/65423187/93247992-94e4c680-f765-11ea-9f42-052f22fc331c.gif" alt="drawing" width="100"/> Hi there! 
 
 Welcome to my profile!
 <p>
