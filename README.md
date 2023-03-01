@@ -11,7 +11,7 @@ I'm Supasate, computer engineer student at KMUTT. A boy who passionate about Qua
 <img src="https://img.shields.io/badge/-Python-000000?logo=python&logoColor=blue&style=plastic" alt="python"/> 
 <img src="https://img.shields.io/badge/-R-000000?logo=r&logoColor=blue&style=plastic" alt="R"/> 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> 
-<img src="https://img.shields.io/badge/-HTML-FFA500?logo=HTML&logoColor=blue&style=plastic" alt="HTML"/> 
+<img src="https://img.shields.io/badge/-HTML-FFA500?logo=html&logoColor=blue&style=plastic" alt="HTML"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
 <p>
 <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow"/> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>	
