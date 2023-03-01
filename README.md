@@ -4,23 +4,55 @@ Welcome to my profile!
 <p>
 I'm Supasate, computer engineer student at KMUTT. A boy who passionate about Quantum Computing :atom: 
 <p>
-<a href="https://medium.com/@ksupasate"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a> <a href="https://www.linkedin.com/in/ksupasate"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> 
-	
-  
+<a href="https://medium.com/@ksupasate"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a> 
+<a href="https://www.linkedin.com/in/ksupasate"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> 	
+</p>
+	  
 ## :computer: Technologies
 <p>
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
-	
-</p>	
+<img alt="Python" src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=white&style=for-the-badge" />
+<img alt="R" src="https://img.shields.io/badge/R-000000?logo=r&logoColor=white&style=for-the-badge" />
+<img alt="HTML" src="https://img.shields.io/badge/HTML-000000?logo=html5&logoColor=white&style=for-the-badge" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS-000000?logo=css3&logoColor=white&style=for-the-badge" />
+<img alt="Javascript" src="https://img.shields.io/badge/Javascript-000000?logo=javascript&logoColor=white&style=for-the-badge" />
+<img alt="C" src="https://img.shields.io/badge/C-000000?logo=c&logoColor=white&style=for-the-badge" />
+<img alt="Dart" src="https://img.shields.io/badge/Dart-000000?logo=dart&logoColor=white&style=for-the-badge" />	
+</p>
+
 <p>
-<img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow"/> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>	
+<img alt="Dialogflow" src="https://img.shields.io/badge/Dialogflow-000000?logo=dialogflow&logoColor=white&style=for-the-badge" />
+<img alt="Keras" src="https://img.shields.io/badge/Keras-000000?logo=keras&logoColor=white&style=for-the-badge" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000000?logo=tensorflow&logoColor=white&style=for-the-badge" />
+<img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-000000?logo=pytorch&logoColor=white&style=for-the-badge" />
+<img alt="ScikitLearn" src="https://img.shields.io/badge/Scikit Learn-000000?logo=scikitlearn&logoColor=white&style=for-the-badge" />
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-000000?logo=opencv&logoColor=white&style=for-the-badge" />
+</p>
+
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Nextjs"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs"/> 
+<img alt="React" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=white&style=for-the-badge" />
+<img alt="Vue" src="https://img.shields.io/badge/Vue.js-000000?logo=vuedotjs&logoColor=white&style=for-the-badge" />
+<img alt="Nextjs" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />	
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-000000?logo=bootstrap&logoColor=white&style=for-the-badge" />
+<img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-000000?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+<img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-000000?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+</p>
+
 <p>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white&style=for-the-badge" />
+<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-000000?logo=mariadb&logoColor=white&style=for-the-badge" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000?logo=mongodb&logoColor=white&style=for-the-badge" />
+</p>
+
 <p>
-<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/> 
+<img alt="Azure" src="https://img.shields.io/badge/Azure-000000?logo=microsoft-azure&logoColor=white&style=for-the-badge" />
+<img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-000000?logo=google-cloud&logoColor=white&style=for-the-badge" />
+</p>
+
+<p>
+<img alt="Git" src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=white&style=for-the-badge" />
+<img alt="GCP" src="https://img.shields.io/badge/Github-000000?logo=github&logoColor=white&style=for-the-badge" />
+</p>
+
 	
 ## :rocket: Github stat
 ![Ksupasate's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksupasate&show_icons=true&theme=dracula)
