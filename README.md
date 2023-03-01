@@ -50,7 +50,8 @@ I'm Supasate, computer engineer student at KMUTT. A boy who passionate about Qua
 
 <p>
 <img alt="Git" src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=F05030&style=for-the-badge" />
-<img alt="GCP" src="https://img.shields.io/badge/Github-000000?logo=github&logoColor=white&style=for-the-badge" />
+<img alt="Github" src="https://img.shields.io/badge/Github-000000?logo=github&logoColor=white&style=for-the-badge" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=2496ED&style=for-the-badge" />
 </p>
 
 	
