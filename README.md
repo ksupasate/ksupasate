@@ -9,7 +9,7 @@ I'm Supasate, computer engineer student at KMUTT. A boy who passionate about Qua
   
 ## :computer: Technologies
 <p>
-<img alt = "React" src "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
 	
 </p>	
 <p>
