@@ -8,8 +8,10 @@ I'm Supasate, computer engineer student at KMUTT. A boy who passionate about Qua
 	
   
 ## :computer: Technologies
-<img src="https://img.shields.io/badge/-Python-000000?logo=python&logoColor=blue&style=plastic" alt="python"/> <img src="https://img.shields.io/badge/-R-000000?logo=r&logoColor=blue&style=plastic" alt="R"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
+<p>
+<img alt = "Python" src "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
+	
+	
 <p>
 <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow"/> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>	
 <p>
