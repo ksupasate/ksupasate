@@ -9,9 +9,9 @@ I'm Supasate, computer engineer student at KMUTT. A boy who passionate about Qua
   
 ## :computer: Technologies
 <p>
-<img alt = "Python" src "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
+<img alt = "React" src "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
 	
-	
+</p>	
 <p>
 <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow"/> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>	
 <p>
